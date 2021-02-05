@@ -2,7 +2,7 @@
 
 These examples cover different aspects of several development tools and concepts related to Java from my [self-learning](https://github.com/DanielBrito/self-learning) studies.
 
-## Learning Topics
+## :bookmark_tabs: Learning Topics
 
 - Object Oriented Programming
 - JavaFx
