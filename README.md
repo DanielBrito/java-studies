@@ -13,3 +13,4 @@ These examples cover different aspects of several development tools and concepts
 
 - [HáLugar](https://github.com/HaLugar) :mortar_board:
 - [Java Compiler](https://github.com/DanielBrito/ufc/tree/master/Compiladores) :mortar_board:
+- [Linear Algebra](https://github.com/DanielBrito/ufc/tree/master/%C3%81lgebra%20Linear) :mortar_board:
