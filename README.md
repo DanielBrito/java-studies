@@ -11,4 +11,5 @@ These examples cover different aspects of several development tools and concepts
 
 ## :rocket: Personal Projects
 
-- [HáLugar](https://github.com/HaLugar)
+- [HáLugar](https://github.com/HaLugar) :mortar_board:
+- [Java Compiler](https://github.com/DanielBrito/ufc/tree/master/Compiladores) :mortar_board:
