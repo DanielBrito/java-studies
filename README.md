@@ -1,6 +1,6 @@
 # ☕ Learning Java
 
-These examples cover different aspects of several development tools and concepts related to Java from my [self-guided](https://github.com/DanielBrito/self-learning) studies.
+These examples cover different aspects of several development tools and concepts related to Java from my [self-directed](https://github.com/DanielBrito/self-learning) studies.
 
 ## :bookmark_tabs: Learning Topics
 
