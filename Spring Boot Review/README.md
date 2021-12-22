@@ -1,8 +1,4 @@
-# Available at
-
-[Spring Boot Tutorial (FreeCodeCamp)](https://www.youtube.com/watch?v=vtPkZShrvXQ)
-
-## Tools, technologies and concepts
+# References
 
 :incoming_envelope: [API](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/)
 
