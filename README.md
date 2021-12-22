@@ -5,6 +5,8 @@ These experiments cover different tools and concepts related to Java from my [se
 ## :bookmark_tabs: Learning Topics
 
 - Object Oriented Programming
+- Data structures
+- Algorithms
 - Threads
 - JavaFx
 - Spring Framework
