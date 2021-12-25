@@ -11,7 +11,7 @@ These experiments cover different tools and concepts related to Java from my [se
 - JavaFx
 - Spring Framework
 
-## :rocket: Personal Projects
+## :rocket: Projects
 
 - [HáLugar](https://github.com/HaLugar) :mortar_board:
 - [Java Compiler](https://github.com/DanielBrito/ufc/tree/master/Compiladores) :mortar_board:
