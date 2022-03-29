@@ -1,4 +1,4 @@
-# ☕ Learning Java
+# ☕ Java Studies
 
 These experiments cover different tools and concepts related to Java from my [self-directed](https://github.com/DanielBrito/self-learning) studies.
 
